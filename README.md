@@ -85,7 +85,8 @@ The dashboard provides insights into sales, profit, customer behavior, and deliv
 
 
 📸 Dashboard Preview
-![superstoredashboard](https://github.com/user-attachments/assets/a00ab1aa-21c0-4057-8e71-b331265db501)
+
+![superstore-sales-dashboard-png-review](https://github.com/user-attachments/assets/66195f16-dbfa-46da-b411-66971f3b091f)
 
 
 
